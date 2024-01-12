@@ -9,7 +9,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 The project is organized as follows:
 
 `PyCitySchools`: Folder containing the Resources folder.
-  -`Resources`: Folder containing the CSV files used for analysis.
+  `Resources`: Folder containing the CSV files used for analysis.
 `pandas-challenge.ipynb`: File cotaining code for analysis.
 
 # Author

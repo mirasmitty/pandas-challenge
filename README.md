@@ -12,6 +12,7 @@ The project is organized as follows:
   - `Resources`: Folder containing the CSV files used for analysis.
 - `pandas-challenge.ipynb`: File cotaining code for analysis.
 
+Other folders are internal system checkpoints that can be ignored.
 # Author
 Miranda Smith
 
